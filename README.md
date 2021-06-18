@@ -10,5 +10,5 @@ Temele de la Protocoale de Comunicatii 2020-2021. Au ca scop dezvoltarea de apli
 
 * Tema 3 - Implementarea unui client la **nivelul aplicatie** care comunica prin **HTTP** cu un **REST API**.
 
-
+Enuntul complet si detaliile complete de implementare se gasesc in folderele asociate temelor.
 
